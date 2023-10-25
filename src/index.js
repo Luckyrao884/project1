@@ -8,6 +8,7 @@ root.render(
   <React.StrictMode>
     <Nav/>
   </React.StrictMode>
+  
 );
 
 
